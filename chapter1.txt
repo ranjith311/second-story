@@ -9,3 +9,6 @@ to clear all the doubt about that.
 3.This is the third edit.
 no matter how much edit you did.
 git can save everything and get back to you.
+
+4. added remote repositories.
+checking some edits and changes.
