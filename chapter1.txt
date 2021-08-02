@@ -1,4 +1,7 @@
-This is chapter1 .
+1.This is chapter1 .
 Git is a bit confusing at the beginning.
 Play around with it.
 It will be ok in a week.
+
+2. The second modification is, just to clarify what git can do.
+to clear all the doubt about that.
