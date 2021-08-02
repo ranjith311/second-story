@@ -1,0 +1,4 @@
+This is chapter1 .
+Git is a bit confusing at the beginning.
+Play around with it.
+It will be ok in a week.
