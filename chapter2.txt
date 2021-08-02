@@ -1,2 +1,4 @@
-Hello this is chapter 2.
+1.Hello this is chapter 2.
 well this is just a sample to check how git works.
+
+2. just to rollback to the previous version.
