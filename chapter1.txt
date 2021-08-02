@@ -5,3 +5,7 @@ It will be ok in a week.
 
 2. The second modification is, just to clarify what git can do.
 to clear all the doubt about that.
+
+3.This is the third edit.
+no matter how much edit you did.
+git can save everything and get back to you.
